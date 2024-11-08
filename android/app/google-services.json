@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092554165645",
+    "project_id": "teat1-8259c",
+    "storage_bucket": "teat1-8259c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092554165645:android:f6e8ba5aa573896cd441c4",
+        "android_client_info": {
+          "package_name": "com.example.workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hHQHkYgQPTz1cX-Pgu3fyCfm4qMWzdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
